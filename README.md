@@ -25,21 +25,4 @@ Some technical features are:
 
 ## Demos
 
-### Scroll movies
-
-[![](https://alejandrokantun.github.io/MoviesImages/Demo1_Main.gif)](https://alejandrokantun.github.io/MoviesImages/Demo1_Main.mp4)
-
-### Scroll categories movies
-
-[Click to play](https://alejandrokantun.github.io/MoviesImages/Demo3_MoviesCatalog.mp4)
-
-### Open movie details
-
-[![](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.gif)](https://alejandrokantun.github.io/MoviesImages/Demo2_MovieDetail.mp4)
-
-### Screenshots
-
-<img src="https://alejandrokantun.github.io/MoviesImages/Movie1.jpg" width="400">
-<img src="https://alejandrokantun.github.io/MoviesImages/MovieDetail.jpg" width="400">
-
 Developed by [Alejandro Kantun](https://github.com/AlejandroKantun)
